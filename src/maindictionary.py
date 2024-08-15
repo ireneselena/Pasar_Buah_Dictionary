@@ -16,7 +16,7 @@ List Menu:
 2. Menambah Buah
 3. Menghapus Buah
 4. Membeli Buah
-5. Exit Program
+5. Exit Progra
 '''
     while True:
         # Menampilkan tampilan utama
